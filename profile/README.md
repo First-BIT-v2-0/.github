@@ -65,6 +65,12 @@
 | [DEMO002_AI_OrderManagement](https://github.com/First-BIT-v2-0/DEMO002_AI_OrderManagement) | Демо проект телеграм бота с использованием ИИ |
 | [LLM_ParseInvoice](https://github.com/First-BIT-v2-0/LLM_ParseInvoice) | Извлечение информации из счета на оплату с помощью ИИ |
 
+## 🚀 CI-CD
+| Репозиторий | Описание        |
+|:------------|:----------------|
+| [Test-CI-CD](https://github.com/First-BIT-v2-0/Test-CI-CD) | Тестовый проект для проб CI\CD |
+| [CICD_Reusable_script](https://github.com/First-BIT-v2-0/CICD_Reusable_script) | Скрипт автоматического обновления проектов |
+| [CICD_Reusable_PIX](https://github.com/First-BIT-v2-0/CICD_Reusable_PIX) | Набор .pix скриптов, которые обновляются в проектах через CI-CD |
 
 ## 📦 Архив
 | Репозиторий | Описание        |
