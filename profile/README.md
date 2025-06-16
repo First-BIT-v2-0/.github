@@ -61,8 +61,8 @@
 ## 🧠 LLM
 | Репозиторий | Описание        |
 |:------------|:----------------|
-| [DEMO001_AI_SmartWebsiteParsing](https://github.com/First-BIT-v2-0/DEMO001_AI_SmartWebsiteParsing) | Проект с ИИ "Умный парсинг сайта" (Газпром) |
-| [DEMO002_AI_OrderManagement](https://github.com/First-BIT-v2-0/DEMO002_AI_OrderManagement) | Демо проект телеграм бота с использованием ИИ для Белуга |
+| [DEMO001_AI_SmartWebsiteParsing](https://github.com/First-BIT-v2-0/DEMO001_AI_SmartWebsiteParsing) | Проект с ИИ "Умный парсинг сайта" |
+| [DEMO002_AI_OrderManagement](https://github.com/First-BIT-v2-0/DEMO002_AI_OrderManagement) | Демо проект телеграм бота с использованием ИИ |
 | [LLM_ParseInvoice](https://github.com/First-BIT-v2-0/LLM_ParseInvoice) | Извлечение информации из счета на оплату с помощью ИИ |
 
 
